@@ -2,7 +2,7 @@
 ---
 https://github.com/bespokejs/bespoke
 
-```
+```sh
 npm install -g generator-bespoke
 yo bespoke
 
@@ -13,7 +13,7 @@ gulp
 install bespoke-theme-voltaire
 ```
 
-```
+```html
 <article id="presentation">
   <section>Slide 1</section>
   <section>Slide 2</section>
